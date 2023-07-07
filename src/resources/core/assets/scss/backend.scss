@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans:100,400,600,800&display=swap');
+@import 'variables';
+@import 'block-builder';
+@import 'bootstrap/scss/bootstrap';
+@import "@fortawesome/fontawesome-free/scss/fontawesome";
+@import "@fortawesome/fontawesome-free/scss/solid";
+
+body {
+    background-color: $grey-lighter;
+}
+
+.bg-gray {
+    background-color: $grey-lighter;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+    transition: opacity .3s ease-in-out;
+
+    &:hover {
+        opacity: .77;
+    }
+}

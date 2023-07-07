@@ -1,0 +1,21 @@
+{
+  "frontend.js": "/vendor/simple-cms/themes/default/assets/dist/frontend.29d9aa94a05e8e4e3644.js",
+  "frontend.css": "/vendor/simple-cms/themes/default/assets/dist/frontend.29d9aa94a05e8e4e3644.css",
+  "runtime.js": "/vendor/simple-cms/themes/default/assets/dist/runtime.29d9aa94a05e8e4e3644.js",
+  "vendors.js": "/vendor/simple-cms/themes/default/assets/dist/vendors.29d9aa94a05e8e4e3644.js",
+  "webfonts/fa-brands-400.eot": "/vendor/simple-cms/themes/default/assets/dist/webfonts/fa-brands-400.eot",
+  "webfonts/fa-brands-400.svg": "/vendor/simple-cms/themes/default/assets/dist/webfonts/fa-brands-400.svg",
+  "webfonts/fa-brands-400.ttf": "/vendor/simple-cms/themes/default/assets/dist/webfonts/fa-brands-400.ttf",
+  "webfonts/fa-brands-400.woff": "/vendor/simple-cms/themes/default/assets/dist/webfonts/fa-brands-400.woff",
+  "webfonts/fa-brands-400.woff2": "/vendor/simple-cms/themes/default/assets/dist/webfonts/fa-brands-400.woff2",
+  "webfonts/fa-regular-400.eot": "/vendor/simple-cms/themes/default/assets/dist/webfonts/fa-regular-400.eot",
+  "webfonts/fa-regular-400.svg": "/vendor/simple-cms/themes/default/assets/dist/webfonts/fa-regular-400.svg",
+  "webfonts/fa-regular-400.ttf": "/vendor/simple-cms/themes/default/assets/dist/webfonts/fa-regular-400.ttf",
+  "webfonts/fa-regular-400.woff": "/vendor/simple-cms/themes/default/assets/dist/webfonts/fa-regular-400.woff",
+  "webfonts/fa-regular-400.woff2": "/vendor/simple-cms/themes/default/assets/dist/webfonts/fa-regular-400.woff2",
+  "webfonts/fa-solid-900.eot": "/vendor/simple-cms/themes/default/assets/dist/webfonts/fa-solid-900.eot",
+  "webfonts/fa-solid-900.svg": "/vendor/simple-cms/themes/default/assets/dist/webfonts/fa-solid-900.svg",
+  "webfonts/fa-solid-900.ttf": "/vendor/simple-cms/themes/default/assets/dist/webfonts/fa-solid-900.ttf",
+  "webfonts/fa-solid-900.woff": "/vendor/simple-cms/themes/default/assets/dist/webfonts/fa-solid-900.woff",
+  "webfonts/fa-solid-900.woff2": "/vendor/simple-cms/themes/default/assets/dist/webfonts/fa-solid-900.woff2"
+}

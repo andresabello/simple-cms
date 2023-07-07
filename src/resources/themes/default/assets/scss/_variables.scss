@@ -1,0 +1,58 @@
+$black: hsl(0, 0%, 9%);
+$black-bis: hsl(0, 0%, 7%);
+$black-ter: hsl(0, 0%, 14%);
+
+$grey: #7c7c7c;
+$grey-dark: #696969;
+$grey-darker: #474747;
+$grey-light: #b4b4b4;
+$grey-lighter: #F4F5F7;
+
+$white-ter: hsl(0, 0%, 96%);
+$white-bis: hsl(0, 0%, 98%);
+$white: #ffffff;
+
+$orange: #f0997d;
+$yellow: hsl(48, 100%, 67%);
+$green: #66a693;
+$turquoise: hsl(171, 100%, 41%);
+$blue: #4d7ca5;
+$purple: hsl(271, 100%, 71%);
+$red: #f06d85;
+
+$grey-middle: rgba(160, 180, 200, .85);
+$dark: #1D2E3D;
+$primary: $blue;
+$danger: $red;
+$light: #a1d3da;
+
+$primary-invert: $white-ter;
+
+$primary-text-color: $dark;
+$secondary-text-color: $primary;
+$pink: hsl(0, 100%, 85%);
+$burger-color: $dark;
+
+$font-family-sans-serif: 'Fira Sans', sans-serif;
+$family-primary: $font-family-sans-serif;
+
+$mq-mobile-portrait: 320px !default;
+$mq-mobile-landscape: 480px !default;
+$mq-tablet-portrait: 768px !default;
+$mq-tablet-landscape: 1024px !default;
+$mq-desktop: 1260px !default;
+
+
+$button-border: lighten($grey-dark, 25) !default;
+$button-hover-border: lighten($grey-dark, 30) !default;
+
+$pagination-border: lighten($grey-dark, 25) !default;
+$pagination-hover-border: lighten($grey-dark, 30) !default;
+
+$dashboard-font-color: $grey-middle;
+
+$breadcrumb-bg: transparent;
+
+$fa-font-path: "/vendor/simple-cms/themes/default/assets/dist/webfonts";
+
+

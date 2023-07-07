@@ -1,0 +1,35 @@
+@import 'variables';
+@import 'theme_variables';
+@import 'bootstrap/scss/bootstrap';
+@import 'typography';
+@import 'sections';
+@import "nav";
+@import "styles";
+@import "@fortawesome/fontawesome-free/scss/fontawesome";
+@import "@fortawesome/fontawesome-free/scss/solid";
+@import "@fortawesome/fontawesome-free/scss/brands";
+
+code {
+    font-size: 16px !important;
+}
+
+.hero-cta {
+    h1, h2 {
+        font-size: 5em;
+    }
+    img {
+        max-height: 600px;
+    }
+}
+
+[v-cloak] {
+    display: none;
+}
+
+@media screen and (max-width: 991px){
+    .hero-cta {
+        h1, h2 {
+            font-size: 3.5em;
+        }
+    }
+}

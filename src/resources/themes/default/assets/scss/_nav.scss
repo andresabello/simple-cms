@@ -1,0 +1,46 @@
+@import "theme_variables";
+
+.navbar {
+    position: relative;
+    padding: 0 20px;
+    z-index: 100;
+
+    .navbar-nav {
+
+        .nav-item {
+            &.phone-nav-item {
+                margin-left: 40px;
+            }
+
+            .nav-link {
+                color: $white;
+                transition: color .3s ease-in-out;
+
+                &:hover {
+                    color: $primary;
+                }
+            }
+        }
+    }
+}
+
+
+@media screen and (max-width: 991px) {
+    .navbar {
+        .navbar-nav {
+            width: 100%;
+            position: absolute;
+            left: 0;
+            top: 100%;
+            z-index: 100;
+            background: $dark;
+            padding: 0 20px;
+
+            .nav-item {
+                &.phone-nav-item {
+                    margin: 20px 0;
+                }
+            }
+        }
+    }
+}
